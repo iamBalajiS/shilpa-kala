@@ -68,7 +68,7 @@ ShilpaKala/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/ShilpaKala.git
+git clone https://github.com/iamBalajiS/shilpa-kala.git
 ```
 
 ---
@@ -119,8 +119,8 @@ GEMINI_API_KEY=YOUR_API_KEY
 
 | | |
 |---|---|
-| ![Screenshot 1](https://github.com/iamBharathk/shilpa-kala/blob/main/app/WhatsApp%20Image%202026-05-04%20at%2011.15.00%20PM.jpeg) | ![Screenshot 2](https://github.com/iamBharathk/shilpa-kala/blob/main/app/WhatsApp%20Image%202026-05-04%20at%2011.15.26%20PM.jpeg) |
-| ![Screenshot 3](https://github.com/iamBharathk/shilpa-kala/blob/main/app/WhatsApp%20Image%202026-05-04%20at%2011.15.46%20PM.jpeg) | ![Screenshot 4](https://github.com/iamBharathk/shilpa-kala/blob/main/app/WhatsApp%20Image%202026-05-04%20at%2011.16.27%20PM.jpeg) |
+| ![Screenshot 1](https://github.com/iamBalajiS/shilpa-kala/blob/main/app/WhatsApp%20Image%202026-05-04%20at%2011.15.00%20PM.jpeg) | ![Screenshot 2](https://github.com/iamBalajiS/shilpa-kala/blob/main/app/WhatsApp%20Image%202026-05-04%20at%2011.15.30%20PM.jpeg) |
+| ![Screenshot 3](https://github.com/iamBalajiS/shilpa-kala/blob/main/app/WhatsApp%20Image%202026-05-04%20at%2011.15.46%20PM.jpeg) | ![Screenshot 4](https://github.com/iamBalajiS/shilpa-kala/blob/main/app/WhatsApp%20Image%202026-05-04%20at%2011.16.14%20PM.jpeg) |
 
 ---
 
