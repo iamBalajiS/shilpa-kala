@@ -4,6 +4,7 @@ plugins {
     id "org.jetbrains.kotlin.plugin.compose"
     id "com.google.devtools.ksp"
     id "com.google.dagger.hilt.android"
+    id "com.google.gms.google-services"
 }
 
 android {
@@ -90,6 +91,9 @@ dependencies {
     implementation "com.google.firebase:firebase-firestore-ktx:25.1.1"
     implementation "com.google.android.gms:play-services-auth:21.2.0"
     implementation "org.jetbrains.kotlinx:kotlinx-coroutines-play-services:1.9.0"
+
+    // Google Generative AI (Gemini)
+    implementation "com.google.ai.client.generativeai:google-generative-ai-kt:0.1.0"
 
     implementation "io.coil-kt:coil-compose:2.7.0"
     implementation "com.google.zxing:core:3.5.3"
