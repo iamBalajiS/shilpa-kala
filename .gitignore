@@ -1,0 +1,33 @@
+# Gradle
+.gradle/
+/build/
+**/build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+
+# Kotlin/Java
+*.class
+*.jar
+*.war
+*.ear
+*.dex
+
+# Compiled native libs
+*.so
+
+# Generated files
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# Signing
+*.jks
+
+# Misc
+.DS_Store
+*.log

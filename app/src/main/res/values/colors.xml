@@ -1,0 +1,7 @@
+<resources>
+    <color name="brand_red">#A92B2B</color>
+    <color name="brand_gold">#D6A039</color>
+    <color name="ink">#1F1A17</color>
+    <color name="surface">#FFF9F0</color>
+    <color name="surface_dark">#2A211D</color>
+</resources>
